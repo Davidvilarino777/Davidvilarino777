@@ -15,8 +15,8 @@
   <a href="https://instagram.com/vila_frx" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vila_frx" height="30" width="40" />
   </a>
- <a href="mailto:david.vilarino.dasilva@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Email - david.vilarino.dasilva@gmail.com" height="30" width="40" />
+  <a href="mailto:david.vilarino.dasilva@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email - david.vilarino.dasilva@gmail.com" height="30" width="40" />
   </a>
 </p>
 
