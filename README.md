@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Vilariño Da Silva</h1>
-<h3 align="center">I hold a degree in Computer Engineering, specializing in the field of Information Technologies. Throughout my studies, I developed strong knowledge in IT systems, networking, databases, cybersecurity, and the management of technological infrastructures. I have a particular interest in designing, implementing, and maintaining technology solutions that enhance the efficiency and security of information systems within organizations.</h3>
+<h3 align="center">💻Almost graduated in Computer Engineering, specialized in Information Technologies💻</h3>
 
 - 🌱 I’m currently learning **Vaadin and Spring Boot**
 
