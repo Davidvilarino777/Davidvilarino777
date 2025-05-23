@@ -12,7 +12,9 @@
 <a href="https://linkedin.com/in/david vilariño da silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vilariño da silva" height="30" width="40" /></a>
 <a href="https://instagram.com/vila_frx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vila_frx" height="30" width="40" /></a>
 </p>
+
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -23,12 +25,7 @@
   </picture>
 </p>
 
-
-
-
-
 ---
-
 
 
 <h3 align="left">Languages and Tools:</h3>
