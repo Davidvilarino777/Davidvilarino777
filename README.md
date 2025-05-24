@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Vilariño Da Silva</h1>
 <h3 align="center">💻Almost graduated in Computer Engineering, specialized in Information Technologies💻</h3>
 
-- 🌱 I’m currently learning **Vaadin and Spring Boot**
+- 🌱 I’m currently learning **Vaadin and Spring Boot** for my TFG
 
 - 👨‍💻 All of my projects are available at [https://github.com/Davidvilarino777?tab=repositories](https://github.com/Davidvilarino777?tab=repositories)
 
